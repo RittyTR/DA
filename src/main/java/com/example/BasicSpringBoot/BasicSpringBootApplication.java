@@ -11,3 +11,9 @@ public class BasicSpringBootApplication {
 	}
 
 }
+/*
+Author - Rity Tharakkal Raphel
+Date - 17.11.2023
+Exercise 2 - Calling API's
+Matriculation No: 1459915
+ */
